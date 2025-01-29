@@ -13,6 +13,7 @@ while(i == 0):
     
     # 转换类型
     value_str = str(jishaun)
+    
     # 输出当前分割值
     print( "第" + str(u) + "次计算结果值:" + str(jishaun))
 
